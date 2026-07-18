@@ -35,7 +35,7 @@ weather-app/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app.git
+git clone https://github.com/OnlyNikit/weather-app.git
 ```
 
 2. Move into the project directory
